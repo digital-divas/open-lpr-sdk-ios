@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LprSdk",
-            url: "https://github.com/digital-divas/open-lpr-sdk/releases/download/v1.0.2/LprSdk.xcframework.zip",
-            checksum: "168fca7fff465a7b7cd15e7fae4de0a8f38ceb62d732cac73177a91b3533be1a"
+            url: "https://github.com/digital-divas/open-lpr-sdk/releases/download/v1.0.3/LprSdk.xcframework.zip",
+            checksum: "1c4ec11ff6b1d1ac6e1ece6c18875add6c1a00f918d9bfd16c82b399de1ba00e"
         )
     ]
 )
